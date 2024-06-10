@@ -1,0 +1,16 @@
+.Topselling-title-top{
+    background-image: url("../assets/customized.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+.Topselling-title{
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    background-color: rgba(0, 0, 0, 0.856);
+    font-family: 'Alata', sans-serif;
+}
