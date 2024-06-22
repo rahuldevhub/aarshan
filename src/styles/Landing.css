@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+.Landing{
+    background-image: url("../assets/clouds.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: center;
+}
+.landing-back{
+    background-color: #00000065;
+    height: 100vh;
+}
+.landing-title{
+    color: white;
+    text-align: center;
+    padding-top: 8rem;
+    font-size: 13rem;
+    font-family: "Josefin Sans", sans-serif;
+}

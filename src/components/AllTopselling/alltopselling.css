@@ -1,0 +1,81 @@
+.Alltopselling-card {
+    margin-left: 6em;
+    margin-right: 6em;
+    margin-top: 4em;
+    padding-top: 0;
+    padding-bottom: 4em;
+}
+
+.Topselling-title-top {
+    background-image: url("../../assets/customized.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.Topselling-title {
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    background-color: rgba(0, 0, 0, 0.856);
+    font-family: 'Alata', sans-serif;
+}
+
+.careers-description {
+
+
+    /* font-style: italic; */
+    padding-top: 1.5rem;
+    padding-bottom: 2.5rem;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+.careers-card-body {
+    padding-top: 1rem;
+}
+
+.careers-card-description h3 {
+    font-weight: 700;
+    font-family: 'Alata', sans-serif;
+}
+
+.careers-card-description p {
+    margin-bottom: 0;
+    padding-top: 1rem;
+    font-family: 'Alata', sans-serif;
+    text-align: justify;
+
+}
+
+.careers-all-col {
+    margin-top: 2rem;
+}
+
+.careers-col {
+    /* border: solid 1px rebeccapurple; */
+    text-align: center;
+    padding: 4rem;
+}
+
+.careers-button {
+    color: white;
+    text-decoration: none;
+
+    background-color: black;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 1rem;
+    width: 100%;
+    height: 3rem;
+}
+
+.careers-button:hover {
+    background: rgb(175, 175, 175);
+    color: red;
+
+}

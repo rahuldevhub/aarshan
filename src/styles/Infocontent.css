@@ -1,0 +1,53 @@
+
+.supportsystem-all-col{
+    margin-top: 2rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    
+}
+.supportsystem-col{
+    /* border: solid 1px rebeccapurple; */
+    text-align: center;
+    padding: 4rem;
+    
+}
+
+.supportsystem-description{
+
+
+    /* font-style: italic; */
+    padding-top: 1.5rem;
+    padding-bottom: 2.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+
+}
+.supportsys-img{
+    height: 12rem;
+    width: 12rem;
+}
+
+@media only screen and (max-width: 992px) {
+    .supportsystem-all-col{
+        margin-left: 1rem;
+        margin-right: 1rem;
+        margin-top: 1rem;
+        padding-bottom: 0rem;
+    }
+    .supportsystem-col{
+
+        padding: .5rem;
+    }
+
+    .supportsystem-description{
+        font-size: 1.5rem;
+        font-weight: 500;
+
+        padding-bottom: 0rem;
+    }
+    .supportsys-img{
+        height: 6rem;
+        width: 6rem;
+    }
+}

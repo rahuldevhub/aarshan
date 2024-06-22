@@ -1,0 +1,30 @@
+.topsell-title {
+
+    font-weight: 700;
+    line-height: 5rem;
+    font-size: 3.2rem;
+}
+
+.topsell-subtitle {
+    padding-top: 1em;
+    padding-bottom: .2em;
+    font-weight: 100;
+    font-size: 1.3rem;
+}
+.topsell-top-content {
+
+    margin-top: 2em;
+    justify-content: flex-end;
+    padding-left: 4em;
+    font-family: 'Alata', sans-serif;
+    text-align: center;
+
+}
+.topselling-cards{
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.itemcard{
+    display: flex;
+    justify-content: center;
+}

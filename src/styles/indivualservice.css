@@ -1,0 +1,154 @@
+.indivual-title-top {
+    background-image: url("../assets/customized.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.indivual-title-top2 {
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    background-color: rgba(0, 0, 0, 0.856);
+    font-family: 'Alata', sans-serif;
+}
+.ourserviceforindivual{
+    margin-left: 6em;
+    margin-right: 6em;
+    margin-top: 4em;
+    
+}
+.indivual-heading {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Alata', sans-serif;
+}
+
+.ourserviceforindivualcontent{
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.vl {
+    border-left: 2px solid rgba(0, 0, 0, 0.445);
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+  
+  }
+
+  .seeallpackages{
+    background:  #0F5978;
+    color: white;
+    font-weight: 600;
+    border: 2px solid white;
+    border-radius: .4rem;
+    width: 100%;
+    height: 5rem;
+    margin-top: .5rem;
+    
+}
+.card-content p {
+    text-align: left !important;
+    margin-bottom: 0;
+}
+
+.level1-card {
+
+    width: 21rem;
+    background: white;
+    color: black;
+}
+.level1-card:hover{
+    background: #0F5978;
+    color: white;
+}
+
+.packageall {
+    justify-content: space-around;
+}
+
+.level1-button {
+    background:  rgba(0, 0, 0, 0.11);
+    color: #0F5978;
+    font-weight: 600;
+    border: 2px solid white;
+    border-radius: .4rem;
+    width: 100%;
+    height: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.level1-button:hover{
+    background: white;
+    color: black;
+}
+.level1-title {
+    font-size: 1.7rem;
+    font-weight: 600;
+    margin-bottom: 0 !important;
+}
+.level1-description {
+    font-size: .8rem;
+}
+
+.level1-Price {
+    padding-top: 1.2rem;
+   
+    font-size: 3rem;
+    font-weight: 700;
+
+}
+
+.package-features {
+    margin-top: 1rem;
+    text-align: left;
+    font-size: 1.2rem;
+}
+
+@media only screen and (max-width: 992px) {
+
+    .level1-card {
+        width: 16rem;
+    }
+
+    .level1-title {
+        font-size: 1.5rem;
+    }
+
+    .level1-Price {
+        font-size: 2rem;
+    }
+
+    .level1-description {
+        font-size: .7rem;
+    }
+
+    .level1-button {
+    
+        font-size: 1rem;
+        border-radius: .5rem;
+        width: 100%;
+        height: 2.5rem;
+        margin-top: .7rem;
+        margin-bottom: 1rem;
+    }
+    .seeallpackages{
+        font-size: 1rem;
+        border-radius: .5rem;
+        width: 100%;
+        height: 2.5rem;
+        margin-top: .7rem;
+        
+    }
+    .package-features {
+        margin-top: .5rem;
+        text-align: left;
+        font-size: .8rem;
+    }
+}
